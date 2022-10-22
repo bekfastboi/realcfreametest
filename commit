@@ -1,1 +1,1 @@
-Game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = walter2.CFrame
+game.Players.LocalPlayer.stats.gem_amount = 1037811
