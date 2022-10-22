@@ -1,1 +1,1 @@
-game.Players.LocalPlayer._stats.gem_amount = 1037811
+game.Players.LocalPlayer._stats.gem_amount.Value = 1037811
